@@ -1,3 +1,7 @@
+# Description
+
+A Zoom Clone is a video conferencing application that mimics the core functionalities of Zoom, such as real-time video/audio calls, chat, screen sharing, and participant management. Built using technologies like WebRTC for peer-to-peer media communication, Socket.io for real-time communication. The front end is often designed with React.js or Responsiveness effected with Elastic UI, The clone provides a scalable and customizable platform for virtual meetings and collaboration.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
